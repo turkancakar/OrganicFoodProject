@@ -111,9 +111,3 @@ Proje BEM (Block Element Modifier) metodolojisi kullanılarak yapılandırılmı
 ## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
-## 📧 İletişim
-
-Proje Sahibi - [@your-username](https://github.com/your-username)
-
-Proje Linki: [https://github.com/your-username/advanced-css](https://github.com/your-username/advanced-css) 
